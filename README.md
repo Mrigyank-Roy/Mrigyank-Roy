@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mrigyank Roy</h1>
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **ReactJS**
 
 - 📫 How to reach me **roymrigyank2004@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1s9Wtc21LQQYRefowBpu7IBU1zdbLev_z/view?usp=sharing](https://drive.google.com/file/d/1s9Wtc21LQQYRefowBpu7IBU1zdbLev_z/view?usp=sharing)
+- 📄 Know about my experiences :  <a href="https://drive.google.com/file/d/1s9Wtc21LQQYRefowBpu7IBU1zdbLev_z/view?usp=sharing" target="blank">Visit</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
