@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mrigyank Roy</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrigyank-roy&label=Profile%20views&color=0e75b6&style=flat" alt="mrigyank-roy" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
 
