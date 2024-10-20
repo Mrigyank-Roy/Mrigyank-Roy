@@ -4,7 +4,6 @@
 
 - 📫 How to reach me **roymrigyank2004@gmail.com**
 
-- 📄 Know about my experiences :  <a href="https://drive.google.com/file/d/1G68RPHzYF7hCxXirMu86BhignkQSJoSb/view?usp=sharing" target="blank">Visit</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
