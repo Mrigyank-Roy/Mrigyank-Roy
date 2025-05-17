@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mrigyank Roy</h1>
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 📫 How to reach me **roymrigyank2004@gmail.com**
+- 📫 How to reach me **mrigyankroy@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
